@@ -1,0 +1,256 @@
+{
+  "count": 12,
+  "skillset": [
+    {
+      "category": "Front-end",
+      "items": [        
+        {
+          "name": "HTML",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 0,
+          "unkonwn": 5
+        },
+        {
+          "name": "CSS",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
+        },
+        {
+          "name": "JavaScript",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "jQuery",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "CoffeeScript",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "AngularJS",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },{
+          "name": "jQuery",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "Backbone",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "Responsive Design",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        },
+        {
+          "name": "Isomorphic React",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 2
+        }
+      ]
+    },
+    {
+      "category": "Back-end",
+      "items": [              
+        {
+          "name": "Ruby",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 1
+        },        
+        {
+          "name": "Scala",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 1,
+          "willing": 2,
+          "unkonwn": 2
+        },
+        {
+          "name": "NodeJS",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 1
+        },
+        {
+          "name": "MySQL/SQL Server",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 1,
+          "willing": 2,
+          "unkonwn": 2
+        },
+        {
+          "name": "Perl",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 1
+        },
+        {
+          "name": "Java",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 1,
+          "willing": 2,
+          "unkonwn": 2
+        },
+        {
+          "name": "ES",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 1
+        },
+        {
+          "name": "C# .net",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 1,
+          "willing": 2,
+          "unkonwn": 2
+        }
+      ]
+    },
+    {
+      "category": "OPS",
+      "items": [
+        {
+          "name": "AWS",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 2,
+          "willing": 1,
+          "unkonwn": 3
+        },
+        {
+          "name": "Docker",
+          "expert": 0,
+          "familiar": 4,
+          "learning": 1,
+          "willing": 0,
+          "unkonwn": 1
+        },
+        {
+          "name": "Akamai",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 0,
+          "unkonwn": 6
+        },
+        {
+          "name": "Continuous Delivery",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 3
+        },
+        {
+          "name": "Monitoring & Logs",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 0,
+          "unkonwn": 6
+        },
+        {
+          "name": "Security Audit",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 3
+        },
+        {
+          "name": "Linux & Network",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 3,
+          "unkonwn": 3
+        }
+      ]
+    },
+    {
+      "category": "QA",
+      "items": [       
+        {
+          "name": "Cross browser testing",
+          "expert": 2,
+          "familiar": 1,
+          "learning": 2,
+          "willing": 1,
+          "unkonwn": 0
+        },
+        {
+          "name": "Automated testing",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
+        },
+        {
+          "name": "Load and performance",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
+        },
+        {
+          "name": "Pack",
+          "expert": 0,
+          "familiar": 2,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
+        }
+      ]
+    }
+  ]
+}

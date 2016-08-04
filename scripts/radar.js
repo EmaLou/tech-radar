@@ -32,11 +32,7 @@ function generateOptions(data, target) {
         },
 
         title: {
-            text: 'ThoughtWorks Team Skillset - ' + _.capitalize(target)
-        },
-
-        subtitle: {
-            text: 'Source: https://jinshuju.net/f/l9MNsY/results'
+            text: _.capitalize(target)
         },
 
         pane: {
@@ -75,7 +71,7 @@ function generateOptions(data, target) {
                 pointPlacement: 'on'
             }
         }
-    }
+    };
 
     return options;
 }
