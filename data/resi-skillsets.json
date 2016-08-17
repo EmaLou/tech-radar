@@ -6,82 +6,75 @@
       "items": [        
         {
           "name": "HTML",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 1,
+          "expert": 8,
+          "familiar": 2,
+          "learning": 0,
           "willing": 0,
-          "unkonwn": 5
+          "unkonwn": 0
         },
         {
           "name": "CSS",
-          "expert": 0,
-          "familiar": 2,
-          "learning": 4,
+          "expert": 6,
+          "familiar": 4,
+          "learning": 0,
           "willing": 0,
           "unkonwn": 0
         },
         {
           "name": "JavaScript",
-          "expert": 0,
-          "familiar": 1,
+          "expert": 5,
+          "familiar": 5,
           "learning": 0,
-          "willing": 3,
-          "unkonwn": 2
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "jQuery",
-          "expert": 0,
-          "familiar": 0,
+          "expert": 4,
+          "familiar": 5,
           "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "CoffeeScript",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
+          "expert": 1,
+          "familiar": 1,
+          "learning": 6,
+          "willing": 2,
+          "unkonwn": 0
+        },
+        {
+          "name": "Isomorphic React",
+          "expert": 3,
+          "familiar": 3,
+          "learning": 2,
+          "willing": 2,
+          "unkonwn": 0
         },
         {
           "name": "AngularJS",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
-        },{
-          "name": "jQuery",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
+          "expert": 1,
+          "familiar": 5,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "Backbone",
           "expert": 0,
-          "familiar": 0,
-          "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
+          "familiar": 2,
+          "learning": 6,
+          "willing": 2,
+          "unkonwn": 0
         },
         {
           "name": "Responsive Design",
-          "expert": 0,
-          "familiar": 0,
+          "expert": 2,
+          "familiar": 6,
           "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
-        },
-        {
-          "name": "Isomorphic React",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 1,
-          "willing": 3,
-          "unkonwn": 2
+          "willing": 1,
+          "unkonwn": 0
         }
       ]
     },
@@ -90,67 +83,67 @@
       "items": [              
         {
           "name": "Ruby",
-          "expert": 0,
-          "familiar": 2,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 1
+          "expert": 3,
+          "familiar": 3,
+          "learning": 3,
+          "willing": 1,
+          "unkonwn": 0
         },        
         {
           "name": "Scala",
-          "expert": 0,
+          "expert": 1,
           "familiar": 1,
-          "learning": 1,
+          "learning": 6,
           "willing": 2,
-          "unkonwn": 2
+          "unkonwn": 0
         },
         {
           "name": "NodeJS",
-          "expert": 0,
-          "familiar": 2,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 1
+          "expert": 1,
+          "familiar": 4,
+          "learning": 5,
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "MySQL/SQL Server",
           "expert": 0,
-          "familiar": 1,
-          "learning": 1,
-          "willing": 2,
-          "unkonwn": 2
+          "familiar": 6,
+          "learning": 3,
+          "willing": 1,
+          "unkonwn": 0
         },
         {
           "name": "Perl",
           "expert": 0,
-          "familiar": 2,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 1
+          "familiar": 0,
+          "learning": 2,
+          "willing": 8,
+          "unkonwn": 0
         },
         {
           "name": "Java",
-          "expert": 0,
-          "familiar": 1,
-          "learning": 1,
-          "willing": 2,
-          "unkonwn": 2
+          "expert": 3,
+          "familiar": 3,
+          "learning": 4,
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "ES",
           "expert": 0,
-          "familiar": 2,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 1
+          "familiar": 1,
+          "learning": 5,
+          "willing": 4,
+          "unkonwn": 0
         },
         {
           "name": "C# .net",
           "expert": 0,
           "familiar": 1,
-          "learning": 1,
-          "willing": 2,
-          "unkonwn": 2
+          "learning": 3,
+          "willing": 6,
+          "unkonwn": 0
         }
       ]
     },
@@ -159,59 +152,59 @@
       "items": [
         {
           "name": "AWS",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 2,
+          "expert": 1,
+          "familiar": 5,
+          "learning": 3,
           "willing": 1,
-          "unkonwn": 3
+          "unkonwn": 0
         },
         {
           "name": "Docker",
           "expert": 0,
-          "familiar": 4,
-          "learning": 1,
-          "willing": 0,
-          "unkonwn": 1
+          "familiar": 2,
+          "learning": 3,
+          "willing": 5,
+          "unkonwn": 0
         },
         {
           "name": "Akamai",
           "expert": 0,
           "familiar": 0,
           "learning": 0,
-          "willing": 0,
-          "unkonwn": 6
+          "willing": 9,
+          "unkonwn": 1
         },
         {
           "name": "Continuous Delivery",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 3
+          "expert": 4,
+          "familiar": 4,
+          "learning": 2,
+          "willing": 0,
+          "unkonwn": 0
         },
         {
           "name": "Monitoring & Logs",
-          "expert": 0,
-          "familiar": 0,
-          "learning": 0,
-          "willing": 0,
-          "unkonwn": 6
+          "expert": 1,
+          "familiar": 3,
+          "learning": 5,
+          "willing": 1,
+          "unkonwn": 0
         },
         {
           "name": "Security Audit",
           "expert": 0,
-          "familiar": 0,
-          "learning": 0,
-          "willing": 3,
-          "unkonwn": 3
+          "familiar": 1,
+          "learning": 3,
+          "willing": 5,
+          "unkonwn": 1
         },
         {
           "name": "Linux & Network",
           "expert": 0,
-          "familiar": 0,
-          "learning": 0,
+          "familiar": 2,
+          "learning": 5,
           "willing": 3,
-          "unkonwn": 3
+          "unkonwn": 0
         }
       ]
     },
@@ -220,35 +213,72 @@
       "items": [       
         {
           "name": "Cross browser testing",
-          "expert": 2,
-          "familiar": 1,
-          "learning": 2,
+          "expert": 6,
+          "familiar": 2,
+          "learning": 1,
           "willing": 1,
           "unkonwn": 0
         },
         {
           "name": "Automated testing",
-          "expert": 0,
-          "familiar": 2,
-          "learning": 4,
-          "willing": 0,
+          "expert": 1,
+          "familiar": 7,
+          "learning": 1,
+          "willing": 1,
           "unkonwn": 0
         },
         {
           "name": "Load and performance",
           "expert": 0,
-          "familiar": 2,
-          "learning": 4,
-          "willing": 0,
+          "familiar": 5,
+          "learning": 2,
+          "willing": 3,
           "unkonwn": 0
         },
         {
           "name": "Pack",
-          "expert": 0,
-          "familiar": 2,
-          "learning": 4,
-          "willing": 0,
+          "expert": 1,
+          "familiar": 1,
+          "learning": 6,
+          "willing": 2,
           "unkonwn": 0
+        }
+      ]
+    },
+    {
+      "category": "Mobile",
+      "items": [
+        {
+          "name": "Java/Dalvik",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 2,
+          "willing": 3,
+          "unkonwn": 5
+        },
+        {
+          "name": "React Native",
+          "expert": 0,
+          "familiar": 1,
+          "learning": 1,
+          "willing": 3,
+          "unkonwn": 5
+        },
+        {
+          "name": "Objective C",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 0,
+          "willing": 7,
+          "unkonwn": 3
+        },
+        {
+          "name": "Swift",
+          "expert": 0,
+          "familiar": 0,
+          "learning": 1,
+          "willing": 7,
+          "unkonwn": 2
         }
       ]
     }
